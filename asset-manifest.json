@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/geo-ar-react/static/css/main.f6443375.css",
-    "main.js": "/geo-ar-react/static/js/main.9a716cd9.js",
+    "main.js": "/geo-ar-react/static/js/main.dc34d92a.js",
     "static/js/787.79509b8a.chunk.js": "/geo-ar-react/static/js/787.79509b8a.chunk.js",
     "static/media/logo.svg": "/geo-ar-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/geo-ar-react/index.html",
     "main.f6443375.css.map": "/geo-ar-react/static/css/main.f6443375.css.map",
-    "main.9a716cd9.js.map": "/geo-ar-react/static/js/main.9a716cd9.js.map",
+    "main.dc34d92a.js.map": "/geo-ar-react/static/js/main.dc34d92a.js.map",
     "787.79509b8a.chunk.js.map": "/geo-ar-react/static/js/787.79509b8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6443375.css",
-    "static/js/main.9a716cd9.js"
+    "static/js/main.dc34d92a.js"
   ]
 }
