@@ -250,6 +250,7 @@ const App = () => {
             <p className="arrow">▼</p>
           </div>
           <div className="info-details-hidden" id="details">
+            <h4>GeoAR - React v0.0.2</h4>
             <p id="latitude-text">latitude: {userLocation.lat}</p>
             <p id="longitude-text">altitude: {userLocation.lng}</p>
             <p id="altitude-text">longitude: {userLocation.alt}</p>
@@ -261,7 +262,6 @@ const App = () => {
             </p>
             <p id="distance-text">Distance: {objectLocation.distance}</p>
             <br />
-            <h4>Version: 0.0.1</h4>
           </div>
         </div>
         <div className="input-container-hidden" id="input-field">
